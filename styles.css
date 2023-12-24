@@ -109,7 +109,7 @@ form button {
     text-align: center;
 }
 
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 370px) {
     #logo-container {
         top: 5px;
         right: 5px;
